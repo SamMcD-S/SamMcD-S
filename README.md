@@ -16,6 +16,10 @@ Over the past year, I have worked in the Computer Architecture Lab at CU Boulder
 Key skills and tools I have used during this research:
   - I have modified the GCC Compiler, adding a new instruction.
   - I have used the gem5 Processor Simulator
+### Audio Electronics
+What makes "Audiophile" gear so expensive? How can I better interpret the specifications of the gear I use to understand effects on my listening experience. 
+
+Throughout this project, I'll build measurement tools to aid a quantitative analisys of the devices I test. I firmly believe that if a difference can't be measured, it can't be heard!
   
   
 
