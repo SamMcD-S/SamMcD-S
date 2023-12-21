@@ -6,5 +6,9 @@ This portfolio documents my current, and past projects. As a Music student and E
 ### Spectre Attack
 This is a generic Spectre Attack, heavily based on the attack from Seed Labs (https://seedsecuritylabs.org). 
 However, the aforementioned attack relies heavily on x86 intrinsic instructions, such as clflush, and rdtscp. To avoid this dependence, my Spectre attack project uses a pthread timer, and a generic cache-evict method.
+### Voltage Glitch Attack
+In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
+### Bluetooth Page Turning Pedal
+As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcome awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
 
 
