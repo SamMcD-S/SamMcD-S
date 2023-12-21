@@ -10,5 +10,12 @@ However, the aforementioned attack relies heavily on x86 intrinsic instructions,
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
 ### Bluetooth Page Turning Pedal
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcome awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
-
+## Current Research
+### Spectre Attack Mitigation
+Over the past year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack. I will update this section of the portfolio at a later time.
+Key skills and tools I have used during this research:
+  -- I have modified the GCC Compiler, adding a new instruction.
+  -- I have used the gem5 Processor Simulator
+  
+  
 
