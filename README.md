@@ -14,8 +14,8 @@ As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a 
 ### Spectre Attack Mitigation
 Over the past year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack. I will update this section of the portfolio at a later time.
 Key skills and tools I have used during this research:
-  -- I have modified the GCC Compiler, adding a new instruction.
-  -- I have used the gem5 Processor Simulator
+  - I have modified the GCC Compiler, adding a new instruction.
+  - I have used the gem5 Processor Simulator
   
   
 
