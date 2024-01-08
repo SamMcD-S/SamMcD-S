@@ -13,7 +13,7 @@ Contributions:
   
 ### Voltage Glitch Attack
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
-### Bluetooth Page Turning Pedal
+### [Bluetooth Page Turning Pedal](https://github.com/SamMcD-S/PageTurner.git)
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcome awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
 ## Current Research
 ### Spectre Attack Mitigation
