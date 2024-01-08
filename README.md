@@ -1,6 +1,7 @@
 # Portfolio
+This repository demonstrates my current and past projects. While most of the projects relate to computer architecture or audio electronic design, I've also included a few miscellaneous embedded pojects. 
 
-This portfolio documents my current, and past projects. As a Music student and Engineer, many of my projects exist either in the audio-electronics field, or are related to computer architecture.
+Any material in this repository is intended to be open source, and can be freely reused for educational (or other non-profitable) purposes. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling@icloud.com.
 
 ## Current Projects
 ### Spectre Attack
