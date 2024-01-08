@@ -7,6 +7,10 @@ Any material in this repository is intended to be open source, and can be freely
 ### Spectre Attack
 This is a generic Spectre Attack, heavily based on the attack from Seed Labs (https://seedsecuritylabs.org). 
 However, the aforementioned attack relies heavily on x86 intrinsic instructions, such as clflush, and rdtscp. To avoid this dependence, my Spectre attack project uses a pthread timer, and a generic cache-evict method.
+Contributions:
+* A timing gadget that utilizes pthread timers, as opposed to architecture specific timing instructions
+* An (in progress) toolkit to determine the cache configuration of a computer, and perform cache-clearing operations.
+  
 ### Voltage Glitch Attack
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
 ### Bluetooth Page Turning Pedal
