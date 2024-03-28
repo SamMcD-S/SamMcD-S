@@ -14,7 +14,7 @@ Contributions:
 ### Voltage Glitch Attack
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
 ### [Fast Fractal Explorer](https://github.com/SamMcD-S/FastFractalExplorer.git)
-The Fast Fractal Explorer (FFE) allows the user to explore a fractal in high fidelity (and high performance). By maintaining a constant resulution and allowing the user to specify new viewing windows, the FFE allows a responsive user interface, even on less powerful computers. This project shows the Mandelbrot Set by default,but can be extended to show other fractals too. The FFE demonstrates the MEX/C interface.
+The Fast Fractal Explorer (FFE) allows any user to explore fractals in high fidelity (and high performance). By maintaining a constant resolution and allowing the user to specify new viewing windows, the FFE allows a responsive user interface, even on less powerful computers. This project shows the Mandelbrot Set by default,but can be extended to support other fractals too. The FFE demonstrates the MEX/C interface.
 ### [Bluetooth Page Turning Pedal](https://github.com/SamMcD-S/PageTurner.git)
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcoming awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
 ## Current Research
