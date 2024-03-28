@@ -1,7 +1,7 @@
 # Portfolio
 This repository demonstrates my current and past projects. While most of the projects relate to computer architecture or audio electronic design, I've also included a few miscellaneous embedded pojects. 
 
-Any material in this repository is intended to be open source, and can be freely reused for educational (or other non-profitable) purposes. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling@icloud.com.
+Any material in this repository is intended to be open source, and can be freely reused under the MIT License. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling@icloud.com.
 
 ## Current Projects
 ### Spectre Attack
@@ -13,6 +13,8 @@ Contributions:
   
 ### Voltage Glitch Attack
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
+### [Fast Fractal Explorer](https://github.com/SamMcD-S/FastFractalExplorer.git)
+The Fast Fractal Explorer (FFE) allows the user to explore a fractal in a high fidelity (and high performance) manner. By maintaining a constant resulution and allowing the user to specify new viewing windows, the FFE allows a responsive user interface, even on less powerful computers. This project demonstrates MEX/C functionality, and can be extended to show other fractals too.
 ### [Bluetooth Page Turning Pedal](https://github.com/SamMcD-S/PageTurner.git)
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcoming awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
 ## Current Research
