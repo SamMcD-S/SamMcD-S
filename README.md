@@ -27,6 +27,6 @@ Key skills and tools I have used during this research:
 What makes "Audiophile" gear so expensive? How can I better interpret the specifications of the gear I use to understand effects on my listening experience. 
 
 Throughout this project, I'll build measurement tools to aid a quantitative analisys of the devices I test. I firmly believe that if a difference can't be measured, it can't be heard!
-  
-  
+### [Ultimate Bode Analyzer](https://github.com/SamMcD-S/UltimateBode.git)
+A Software Defined Instrument (SDI), using the Digilent AD3 (or AD2), that demonstrates a template for building future instruments using the AD3. The Bode Analyzer is implemented, and evaluated here.
 
