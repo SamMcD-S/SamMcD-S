@@ -1,7 +1,7 @@
 # Portfolio
 This repository demonstrates my current and past projects. While most of the projects relate to computer architecture or audio electronic design, I've also included a few miscellaneous embedded pojects. 
 
-Any material in this repository is intended to be open source, and can be freely reused under the MIT License. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling@icloud.com.
+Any material in this repository is intended to be open source, and can be freely reused under the MIT License. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling at icloud dot com.
 
 ## Current Projects
 ### Spectre Attack
