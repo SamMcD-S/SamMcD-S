@@ -3,7 +3,7 @@ This repository demonstrates my current and past projects. While most of the pro
 
 Any material in this repository is intended to be open source, and can be freely reused under the MIT License. Nevertheless, please share your interest or questions with me via email at sammcdiarmidsterling at icloud dot com.
 
-## Current Projects
+## Projects
 
 ### [Fast Fractal Explorer](https://github.com/SamMcD-S/FastFractalExplorer.git)
 The Fast Fractal Explorer (FFE) allows any user to explore fractals in high fidelity (and high performance). By maintaining a constant resolution and allowing the user to specify new viewing windows, the FFE allows a responsive user interface, even on less powerful computers. This project shows the Mandelbrot Set by default,but can be extended to support other fractals too. The FFE demonstrates the MEX/C interface.
