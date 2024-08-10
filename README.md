@@ -10,13 +10,16 @@ However, the aforementioned attack relies heavily on x86 intrinsic instructions,
 Contributions:
 * A timing gadget that utilizes pthread timers, as opposed to architecture specific timing instructions
 * An (in progress) toolkit to determine the cache configuration of a computer, and perform cache-clearing operations.
-  
-### Voltage Glitch Attack
-In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
+### [Merkle Tree File Verification System](https://github.com/SamMcD-S/Mkltree.git)
+The "mklutil" is a proof-of-concept version control system, designed specifically to quickly verify the contents of a directory in a space aware (and fast) manner. This version of the project uses the djb2 hash to quicky identify modifications to tracked files based on their contents -- and not their "last-changed" metadata tags.
 ### [Fast Fractal Explorer](https://github.com/SamMcD-S/FastFractalExplorer.git)
 The Fast Fractal Explorer (FFE) allows any user to explore fractals in high fidelity (and high performance). By maintaining a constant resolution and allowing the user to specify new viewing windows, the FFE allows a responsive user interface, even on less powerful computers. This project shows the Mandelbrot Set by default,but can be extended to support other fractals too. The FFE demonstrates the MEX/C interface.
 ### [Bluetooth Page Turning Pedal](https://github.com/SamMcD-S/PageTurner.git)
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcoming awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
+### Voltage Glitch Attack
+In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
+
+
 ## Current Research
 ### Spectre Attack Mitigation
 Over the past year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack. I will update this section of the portfolio at a later time.
