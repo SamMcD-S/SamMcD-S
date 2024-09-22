@@ -23,8 +23,8 @@ Contributions:
 
 
 ## Current Research
-### Secure Neural Networks
-Neural Networks are everywhere. To support the recent AI boom, manufacturers have implemented neural networks on edge computing devices. This project explores security vulnerabilites of neural networks, and designs a protection mechanism to ensure the integrity of a Network in real time.
+### Secure Neural Networks (National Science Foundation REU)
+Neural Networks are everywhere. To support the recent AI boom, manufacturers have implemented neural networks in embedded scenarios on edge computing devices, and using hardware accelerators. This project explores security vulnerabilites of neural networks, and designs a protection mechanism to ensure their integrity in real time.
 ### Spectre Attack Mitigation
 Over the past year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack. I will update this section of the portfolio at a later time.
 Key skills and tools I have used during this research:
