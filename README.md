@@ -27,10 +27,10 @@ Contributions:
 ### Secure Neural Networks (National Science Foundation REU)
 Neural Networks are everywhere. To support the recent AI boom, manufacturers have implemented neural networks in embedded scenarios on edge computing devices, and using hardware accelerators. In this project, I'll work in the Computer Architecture Lab at CU Boulder to explore security vulnerabilites of neural networks, and design a protection mechanism to ensure their integrity in real time.
 ### Spectre Attack Mitigation
-Over the past year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack. I will update this section of the portfolio at a later time.
-Key skills and tools I have used during this research:
-  - I have modified the GCC Compiler, adding a new instruction.
-  - I have used the gem5 Processor Simulator
+Over the past three years year, I have worked in the Computer Architecture Lab at CU Boulder on a more-efficient defense against the Spectre Attack (manuscript currently under submission). Our defense relies on separating memory into regions which can be accessed transiently, so that vulnerable data can't be leaked during speculation. In this project, I have:
+• Modified industry standard gem5 computer system simulator to support a new instruction (for Spectre Defense)
+• Extended gcc toolchain to support the new RISC-V instruction
+• Implemented Spectre Defense functionality in multiple stages of the out-of-order gem5 processor
 
 ### Audio Electronics
 What makes "Audiophile" gear so expensive? How can I better interpret the specifications of the gear I use to understand effects on my listening experience. 
