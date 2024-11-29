@@ -10,7 +10,8 @@ The Fast Fractal Explorer (FFE) allows any user to explore fractals in high fide
 ### [Bluetooth Page Turning Pedal](https://github.com/SamMcD-S/PageTurner.git)
 As a musician who reads music from an Ipad, a bluetooth page-turning pedal is a important tool to overcoming awkward (or just fast) page turns. Despite their internal simplicity, bluetooth page-turning pedals are surprisingly expensive, often costing between 75 and 100$. In this project, I design a simple and inexpensive alternative.
 ### [Merkle Tree File Verification System](https://github.com/SamMcD-S/Mkltree.git)
-The "mklutil" is a proof-of-concept version control system, designed specifically to quickly verify the contents of a directory in a space aware (and fast) manner. This version of the project uses the djb2 hash to quicky identify modifications to tracked files based on their contents -- and not their "last-changed" metadata tags.### Voltage Glitch Attack
+The "mklutil" is a proof-of-concept version control system, designed specifically to quickly verify the contents of a directory in a space aware (and fast) manner. This version of the project uses the djb2 hash to quicky identify modifications to tracked files based on their contents -- and not their "last-changed" metadata tags.
+### Voltage Glitch Attack
 In this project, I built open-source modules to run a voltage glitch on the Basys 3 FPGA development board. Demonstrations are also documented here.
 ### [Ultimate Bode Analyzer](https://github.com/SamMcD-S/UltimateBode.git)
 A Software Defined Instrument (SDI), using the Digilent AD3 (or AD2), that demonstrates a template for building future instruments using the AD3. The Bode Analyzer is implemented, and evaluated here.
